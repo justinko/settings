@@ -1,0 +1,16 @@
+{
+    "window.commandCenter": true,
+    "workbench.colorTheme": "Monokai Pro",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "redhat.telemetry.enabled": true,
+    "editor.scrollBeyondLastLine": false,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "editor.codeLens": false,
+    "editor.tabSize": 2,
+    "git.autofetch": true,
+    "editor.folding": false,
+    "yaml.format.enable": false,
+    "explorer.autoReveal": "focusNoScroll",
+    "explorer.confirmDelete": false
+}
