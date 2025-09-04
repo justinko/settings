@@ -12,5 +12,11 @@
     "editor.folding": false,
     "yaml.format.enable": false,
     "explorer.autoReveal": "focusNoScroll",
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "syncSettings.resources": [
+        "extensions",
+        "keybindings",
+        "settings",
+        "snippets"
+    ]
 }

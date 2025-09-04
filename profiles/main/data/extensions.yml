@@ -1,7 +1,9 @@
 builtin:
   disabled:
     - undefined.cursor-themes
-disabled: []
+disabled:
+  - id: vscodevim.vim
+    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
   - id: anysphere.cursorpyright
     uuid: d7f9f831-2239-4783-9d06-18d27f285818
@@ -35,8 +37,6 @@ enabled:
     uuid: ef656a13-3703-477b-9f36-672a0c949b96
   - id: sorbet.sorbet-vscode-extension
     uuid: 67d58bf5-9c4f-495f-bee0-d1d3f5898a8b
-  - id: vscodevim.vim
-    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
   - id: waderyan.gitblame
     uuid: 2335b326-c334-4e81-bc51-c408fcec6e7c
   - id: zokugun.cron-tasks
