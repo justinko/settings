@@ -2,8 +2,10 @@ builtin:
   disabled:
     - undefined.cursor-themes
 disabled:
-  - id: vscodevim.vim
+  - id: Shopify.ruby-lsp
     uuid: 00000000-0000-0000-0000-000000000000
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
 enabled:
   - id: anysphere.cursorpyright
     uuid: d7f9f831-2239-4783-9d06-18d27f285818
@@ -33,8 +35,6 @@ enabled:
     uuid: fae95695-f600-489f-afdf-69190f660249
   - id: Shopify.ruby-extensions-pack
     uuid: 430af273-c0cc-4565-a417-6ee1991bbf4c
-  - id: Shopify.ruby-lsp
-    uuid: ef656a13-3703-477b-9f36-672a0c949b96
   - id: sorbet.sorbet-vscode-extension
     uuid: 67d58bf5-9c4f-495f-bee0-d1d3f5898a8b
   - id: waderyan.gitblame
