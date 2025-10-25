@@ -27,6 +27,5 @@
     },
     "[github-actions-workflow]": {
         "editor.defaultFormatter": "redhat.vscode-yaml"
-    },
-    "terminal.integrated.defaultProfile.osx": "bash"
+    }
 }
