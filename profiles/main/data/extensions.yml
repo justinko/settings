@@ -2,8 +2,6 @@ builtin:
   disabled:
     - undefined.cursor-themes
 disabled:
-  - id: Shopify.ruby-lsp
-    uuid: 00000000-0000-0000-0000-000000000000
   - id: vscodevim.vim
     uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
 enabled:
@@ -19,6 +17,8 @@ enabled:
     uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
   - id: Gruntfuggly.todo-tree
     uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
+  - id: marcoroth.herb-lsp
+    uuid: b0e3f97b-4f2e-4453-af77-c49aa303b0ed
   - id: marcoroth.stimulus-lsp
     uuid: cd61c556-a313-4923-98b9-a7c8152f1578
   - id: monokai.theme-monokai-pro-vscode
@@ -35,6 +35,8 @@ enabled:
     uuid: fae95695-f600-489f-afdf-69190f660249
   - id: Shopify.ruby-extensions-pack
     uuid: 430af273-c0cc-4565-a417-6ee1991bbf4c
+  - id: Shopify.ruby-lsp
+    uuid: ef656a13-3703-477b-9f36-672a0c949b96
   - id: sorbet.sorbet-vscode-extension
     uuid: 67d58bf5-9c4f-495f-bee0-d1d3f5898a8b
   - id: waderyan.gitblame

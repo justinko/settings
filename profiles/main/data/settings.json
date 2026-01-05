@@ -27,5 +27,8 @@
     },
     "[github-actions-workflow]": {
         "editor.defaultFormatter": "redhat.vscode-yaml"
-    }
+    },
+    "gitweblinks.showOpen": true,
+    "gitweblinks.useShortHash": true,
+    "cursor.inlineDiff.mode": "unified"
 }
