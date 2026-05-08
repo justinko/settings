@@ -1,7 +1,7 @@
 {
     "window.commandCenter": true,
-    "workbench.colorTheme": "Monokai Pro",
-    "workbench.iconTheme": "Monokai Pro Icons",
+    "workbench.colorTheme": "Monokai Pro Light",
+    "workbench.iconTheme": "Monokai Pro Light Icons",
     "redhat.telemetry.enabled": true,
     "editor.scrollBeyondLastLine": false,
     "files.trimFinalNewlines": true,
@@ -30,5 +30,8 @@
     },
     "gitweblinks.showOpen": true,
     "gitweblinks.useShortHash": true,
-    "cursor.inlineDiff.mode": "unified"
+    "cursor.inlineDiff.mode": "unified",
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredDarkColorTheme": "Monokai Pro",
+    "workbench.preferredLightColorTheme": "Monokai Pro Light"
 }
