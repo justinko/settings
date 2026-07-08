@@ -33,5 +33,6 @@
     "cursor.inlineDiff.mode": "unified",
     "window.autoDetectColorScheme": true,
     "workbench.preferredDarkColorTheme": "Monokai Pro",
-    "workbench.preferredLightColorTheme": "Monokai Pro Light"
+    "workbench.preferredLightColorTheme": "Monokai Pro Light",
+    "git.confirmSync": false
 }
