@@ -1,7 +1,7 @@
 {
     "window.commandCenter": true,
-    "workbench.colorTheme": "Monokai Pro Light",
-    "workbench.iconTheme": "Monokai Pro Light Icons",
+    "workbench.colorTheme": "Monokai Pro",
+    "workbench.iconTheme": "Monokai Pro Icons",
     "redhat.telemetry.enabled": true,
     "editor.scrollBeyondLastLine": false,
     "files.trimFinalNewlines": true,
@@ -34,5 +34,13 @@
     "window.autoDetectColorScheme": true,
     "workbench.preferredDarkColorTheme": "Monokai Pro",
     "workbench.preferredLightColorTheme": "Monokai Pro Light",
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "yaml.disableSchemaDetection": [
+        "**/.github/workflows/*.yml",
+        "**/.github/workflows/*.yaml",
+        "**/.gitea/workflows/*.yml",
+        "**/.gitea/workflows/*.yaml",
+        "**/.forgejo/workflows/*.yml",
+        "**/.forgejo/workflows/*.yaml"
+    ]
 }
