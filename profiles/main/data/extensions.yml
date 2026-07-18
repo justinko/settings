@@ -4,6 +4,7 @@ builtin:
     - anysphere.cursor-agent-worker
     - anysphere.cursor-always-local
     - anysphere.cursor-checkout
+    - anysphere.cursor-local-agent-runtime
     - anysphere.cursor-resolver
     - anysphere.cursor-retrieval
     - anysphere.cursor-socket
